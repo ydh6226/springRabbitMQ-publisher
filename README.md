@@ -3,7 +3,7 @@
 
 ## 기본개념
 https://blog.dudaji.com/general/2020/05/25/rabbitmq.html   
-  ### 라우팅
+## 라우팅
 https://jonnung.dev/rabbitmq/2019/02/06/about-amqp-implementtation-of-rabbitmq/
 
 ## 예제
