@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+spring:
+  rabbitmq:
+    host: 192.168.35.199
+    username: publish_all
+    password: publish_all
