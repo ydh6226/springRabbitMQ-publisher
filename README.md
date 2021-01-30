@@ -1,7 +1,7 @@
 참고
 ==============
 
-- 기본개념
+  ## 기본개념
 https://blog.dudaji.com/general/2020/05/25/rabbitmq.html
 
 ## 예제
